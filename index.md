@@ -5,3 +5,7 @@
 ``` javascript
 var name = "I am Karan";
 ```
+
+- [x] Eat Food
+- [x] Go to School
+- [ ] Play a game
